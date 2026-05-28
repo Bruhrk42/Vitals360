@@ -15,12 +15,6 @@
 
 ---
 
-## 🎥 Demo Video (Clickable)
-
-[![Watch the demo](https://img.youtube.com/vi/C6wPOIYqN1c/0.jpg)](https://youtu.be/C6wPOIYqN1c)
-
----
-
 ## ✨ Key Features
 
 ### 🤖 AI Health Assistant (Powered by Gemini/OpenAI)
