@@ -106,9 +106,9 @@ Elderly users with diabetes, hypertension, or arthritis can:
 > 📌 Whether you're a patient, a caregiver, or a healthcare provider — **Vitals360** adapts to your role and makes health management easier, safer, and smarter.
 
 
-## 👨‍💻 Meet Team Sanjeevani
+## 👨‍💻 Meet Team VitalsPro
 
-A team of passionate developers from **IIIT Bhopal** and **SGSITS Indore**, committed to transforming how healthcare is accessed, managed, and shared.
+A team of passionate developers from **LNCT Bhopal**, committed to transforming how healthcare is accessed, managed, and shared.
 
 | Name | Skills | Institution | 
 |------|--------|-------------|
