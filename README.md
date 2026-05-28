@@ -113,9 +113,9 @@ A team of passionate developers from **LNCT Bhopal**, committed to transforming 
 | Name | Skills | Institution | 
 |------|--------|-------------|
 | **Ark Shrivastava** | App Dev · Python · Kotlin · C++ | LNCT Bhopal |
-| **Rupal Koghare** | Flutter · UI/UX · C++ · CP | LNCT Bhopal |
+| **Rupal Koghare** | Flutter · UI/UX · C++ ·| LNCT Bhopal |
 | **Riddhima Choubey** | Flutter · C++ | LNCT Bhopal |
-| **Rituraj Patidar** | AI/ML · Python · NLP | LNCT Bhopal |
+| **Rituraj Patidar** | AI/ML · Python | LNCT Bhopal |
 
 ---
 
