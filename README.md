@@ -3,7 +3,7 @@
 
 **Vitals360** is your intelligent companion for managing medicines, emergencies, and healthcare data — all in one place. Built for patients, families, and doctors, it simplifies routines, improves medication adherence, and ensures vital information is always accessible, especially in critical situations.
 
-**[Download APK](https://drive.google.com/file/d/1rVQwrURCPrlP7Y_DvHe4vQCnwIANuXC0/view?usp=sharing)**
+**[Download APK](https://drive.google.com/file/d/1aRTWBrzWiDCeywef8YSHXvy1t7mOza95/view?usp=sharing)**
 
 ---
 
