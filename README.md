@@ -116,8 +116,8 @@ Elderly users with diabetes, hypertension, or arthritis can:
 
 A team of passionate developers from **IIIT Bhopal** and **SGSITS Indore**, committed to transforming how healthcare is accessed, managed, and shared.
 
-| Name | Skills | Institution | LinkedIn |
-|------|--------|-------------|----------|
+| Name | Skills | Institution | 
+|------|--------|-------------|
 | **Ark Shrivastava** | App Dev · Python · Kotlin · C++ | LNCT Bhopal |
 | **Rupal Koghare** | Flutter · UI/UX · C++ · CP | LNCT Bhopal |
 | **Riddhima Choubey** | Flutter · C++ | LNCT Bhopal |
