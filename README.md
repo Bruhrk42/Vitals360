@@ -1,9 +1,9 @@
-# 💚 Vitals360 – Smart Health Manager  
+# 💚 Vitals360 – Smart Health Manager
 **Crafted with Flutter · Powered by Firebase · Built to Save Lives**
 
 **Vitals360** is your intelligent companion for managing medicines, emergencies, and healthcare data — all in one place. Built for patients, families, and doctors, it simplifies routines, improves medication adherence, and ensures vital information is always accessible, especially in critical situations.
 
-**[Download APK](https://drive.google.com/file/d/1rVQwrURCPrlP7Y_DvHe4vQCnwIANuXC0/view?usp=sharing)** 
+**[Download APK](https://drive.google.com/file/d/1rVQwrURCPrlP7Y_DvHe4vQCnwIANuXC0/view?usp=sharing)**
 
 ---
 
@@ -24,53 +24,53 @@
 ## ✨ Key Features
 
 ### 🤖 AI Health Assistant (Powered by Gemini/OpenAI)
-- 24x7 smart chatbot for instant answers to health-related queries  
-- Helps users understand symptoms, medications, dosages, and more  
-- Designed for accessibility and conversational ease  
-- Built-in support for appointment queries and health awareness  
+- 24x7 smart chatbot for instant answers to health-related queries
+- Helps users understand symptoms, medications, dosages, and more
+- Designed for accessibility and conversational ease
+- Built-in support for appointment queries and health awareness
 
 ---
 
 ### 💊 Smart Medicine Reminders
-- Schedule medications by time: Morning / Afternoon / Night  
-- Get timely **local notifications** — even when app is closed  
-- Track doses as ✅ Taken, ❌ Missed, ⏳ Pending  
-- Voice reminders and color-coded indicators for elderly users  
+- Schedule medications by time: Morning / Afternoon / Night
+- Get timely **local notifications** — even when app is closed
+- Track doses as ✅ Taken, ❌ Missed, ⏳ Pending
+- Voice reminders and color-coded indicators for elderly users
 
 ---
 
 ### 🔄 Refill Management
-- Never run out of medicines — get reminders before stock ends  
-- Pharmacy integration (planned) for **1-click medicine reorders**  
-- Simple interface to manage refill cycles with medicine status  
+- Never run out of medicines — get reminders before stock ends
+- Pharmacy integration (planned) for **1-click medicine reorders**
+- Simple interface to manage refill cycles with medicine status
 
 ---
 
 ### 📅 Appointment Tracking
-- View upcoming medical appointments directly from dashboard  
-- AI Assistant can guide users on next visits or rescheduling  
-- Future integration with doctor’s module for auto-sync  
+- View upcoming medical appointments directly from dashboard
+- AI Assistant can guide users on next visits or rescheduling
+- Future integration with doctor’s module for auto-sync
 
 ---
 
 ### 🚨 Emergency SOS System
-- One-tap to call 🚑 Ambulance (108), 🚓 Police (100), or your trusted contact  
-- Emergency contacts saved during setup  
-- Confirmation popup prevents accidental calls  
-- Designed with high-contrast colors and large touch zones for quick use  
+- One-tap to call 🚑 Ambulance (108), 🚓 Police (100), or your trusted contact
+- Emergency contacts saved during setup
+- Confirmation popup prevents accidental calls
+- Designed with high-contrast colors and large touch zones for quick use
 
 ---
 
 ### 🧾 Digital Patient Profile (with 6-digit code)
-- Generate a unique patient ID to share with doctors instantly  
-- Profile includes diseases, allergies, medications, and emergency contacts  
-- Works in both **Patient** and **Doctor** apps for seamless health communication  
+- Generate a unique patient ID to share with doctors instantly
+- Profile includes diseases, allergies, medications, and emergency contacts
+- Works in both **Patient** and **Doctor** apps for seamless health communication
 
 ---
 
 ### 🧱 Modular MVVM Architecture
-- Clean structure separates UI, logic, and backend  
-- Easier for team collaboration, feature scaling, and testing  
+- Clean structure separates UI, logic, and backend
+- Easier for team collaboration, feature scaling, and testing
 
 ---
 
@@ -96,18 +96,18 @@
 
 ### 👵 For Senior Citizens with Chronic Illnesses
 Elderly users with diabetes, hypertension, or arthritis can:
-- Get **reminders** for multiple medicines per day  
-- **Call emergency services** or doctors with one tap in emergencies  
+- Get **reminders** for multiple medicines per day
+- **Call emergency services** or doctors with one tap in emergencies
 
 ### 👨‍⚕️ For Doctors & Clinics *(via Dr. Vitals360 App)*
-- View patient health records anytime via secure code  
-- Avoid paper prescriptions and track allergies or history  
+- View patient health records anytime via secure code
+- Avoid paper prescriptions and track allergies or history
 - Reduces delays in emergency treatment
 
 ### 🧠 For General Users
-- Chat with the **AI Assistant** about symptoms or medicine usage  
-- Understand whether to take a medicine before/after meals  
-- Track whether you’ve taken today’s dose with clear, visual UI  
+- Chat with the **AI Assistant** about symptoms or medicine usage
+- Understand whether to take a medicine before/after meals
+- Track whether you’ve taken today’s dose with clear, visual UI
 
 > 📌 Whether you're a patient, a caregiver, or a healthcare provider — **Vitals360** adapts to your role and makes health management easier, safer, and smarter.
 
