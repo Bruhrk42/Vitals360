@@ -118,10 +118,10 @@ A team of passionate developers from **IIIT Bhopal** and **SGSITS Indore**, comm
 
 | Name | Skills | Institution | LinkedIn |
 |------|--------|-------------|----------|
-| **Yajur Chatnani** | App Dev · Python · Kotlin · C++ | IIIT Bhopal | [LinkedIn](https://www.linkedin.com/in/yajurchatnani) |
-| **Keshav Garg** | Flutter · UI/UX · C++ · CP | IIIT Bhopal | [LinkedIn](https://www.linkedin.com/in/keshavgarg8605) |
-| **Tanishq Shrivas** | Flutter · C++ | IIIT Bhopal | [LinkedIn](https://www.linkedin.com/in/tanishq-shrivas-815927324/) |
-| **Astitva Bandil** | AI/ML · Python · NLP | SGSITS Indore | [LinkedIn](https://www.linkedin.com/in/astitva-bandil-a325a2299) |
+| **Ark Shrivastava** | App Dev · Python · Kotlin · C++ | LNCT Bhopal |
+| **Rupal Koghare** | Flutter · UI/UX · C++ · CP | LNCT Bhopal |
+| **Riddhima Choubey** | Flutter · C++ | LNCT Bhopal |
+| **Rituraj Patidar** | AI/ML · Python · NLP | LNCT Bhopal |
 
 ---
 
